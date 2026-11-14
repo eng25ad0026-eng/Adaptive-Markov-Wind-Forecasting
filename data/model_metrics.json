@@ -1,0 +1,13 @@
+{
+    "study_latitude": 9.0,
+    "study_longitude": 77.5,
+    "training_records": 42086,
+    "testing_records": 10522,
+    "baseline_accuracy": 0.8596274472533739,
+    "adaptive_accuracy": 0.8583919406956853,
+    "baseline_brier_score": 0.24429329769756641,
+    "adaptive_brier_score": 0.2466999531104544,
+    "baseline_log_loss": 3.3979432690523557,
+    "adaptive_log_loss": 2.433074549367419,
+    "mean_forecast_entropy": 0.5691491609700176
+}
